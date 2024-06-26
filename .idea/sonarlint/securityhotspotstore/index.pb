@@ -77,8 +77,6 @@ R
 "currency-exchange-service/mvnw.cmd,f\f\ff916c62d6a99d85e931653b77c7f8314536e210
 ç
 ]naming-server/src/test/java/com/microservices/naming_server/NamingServerApplicationTests.java,e\5\e58a445500ce1ae1c167143e4b602225f08ea3c3
-û
-ncurrency-exchange-service/src/main/java/com/microservices/currency_exchange_service/CurrencyExchangeProxy.java,a\5\a58ccf24424eb4afbb12228bcd4c51dc74c2dc26
 Ö
 Uapi-gateway/src/main/java/com/microservicers/api_gateway/ApiGatewayConfiguration.java,9\a\9aed7b57e1a1129af866c26d93a2b0013d1464f5
 {
@@ -243,3 +241,7 @@ Q.idea/sonarlint/securityhotspotstore/2/1/215b41fa89be633ca9f78feec7468606388720
 Q.idea/sonarlint/securityhotspotstore/2/b/2bfa2b108f2439e99e004f4085b58c22cf995f73,8\e\8e8d3f6a657683212b3daa2a5e4dfaa0d030fd55
 Å
 Q.idea/sonarlint/securityhotspotstore/2/a/2ae8034bcce0324c8a941fe81110254ab98586d8,c\d\cd71a89c9d7c15dddc4eb3563fd7a0bfeb3d0dc2
+7
+url.txt,7\b\7b9ef1b8e52e9214a7a6a91866ffb91f596371e6
+£
+scurrency-conversion-service/src/main/java/com/microservices/currency_conversion_service/CurrencyExchangeClient.java,f\8\f811a452527b2e218bc45bef54c82030ccc9adc7
