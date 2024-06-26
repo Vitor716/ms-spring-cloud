@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 public class CurrencyConversionController {
 
     @Autowired
-    private CurrencyConversionClient client;
+    private CurrencyExchangeClient client;
 
     @GetMapping("/currency-conversion/from/{from}/to/{to}/quantity/{quantity}")
     public CurrencyConversion calculateCurrencyConversion(
